@@ -108,7 +108,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Java Programming](https://java-programming.mooc.fi/)
 
-[Algorithms I: ArrayLists, LinkedLists, Stacks and Queues](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues)
+✅ (2024-06-12) [Algorithms I: ArrayLists, LinkedLists, Stacks and Queues](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues)
 
 [Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-ii-binary-trees-heaps-skiplists-and-hashmaps)
 
