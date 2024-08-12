@@ -123,9 +123,11 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 ### Databases
 
-☑️ [Database Management Essentials](https://www.coursera.org/learn/database-management)
+[Database Management Essentials](https://www.coursera.org/learn/database-management)
+☑️ 
 
-☑️ [Data Warehouse Concepts, Design, and Data Integration](https://www.coursera.org/learn/dwdesign)
+[Data Warehouse Concepts, Design, and Data Integration](https://www.coursera.org/learn/dwdesign)
+☑️ 
 
 [Relational Database Support for Data Warehouses](https://www.coursera.org/learn/dwrelational)
 
