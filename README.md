@@ -83,7 +83,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 - [Single Variable Calculus](#single-variable-calculus)
 - [Linear Algebra](#linear-algebra)
 - [Multivariable Calculus](#multivariable-calculus)
-- [Statistics & Probability](#multivariable-calculus)
+- [Statistics & Probability](#statistics--probability)
 - [Data Science Tools & Methods](#data-science-tools--methods)
 - [Machine Learning/Data Mining](#machine-learningdata-mining)
 - [Final project](#final-project)
@@ -158,7 +158,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
-[Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/data-analysis-statistics/stanford-university-statistical-learning-with-python) or [Statistical Learning With R by Stanford University on EdX](https://www.edx.org/learn/statistics/stanford-university-statistical-learning)
+[Statistical Learning with Python by Stanford University on EdX](https://www.edx.org/learn/data-analysis-statistics/stanford-university-statistical-learning-with-python) ([Textbook](https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-python)) or [Statistical Learning With R by Stanford University on EdX](https://www.edx.org/learn/statistics/stanford-university-statistical-learning) ([Textbook](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html), [Textbook resources](https://www.statlearning.com/resources-second-edition))
 
 ### Data Science Tools & Methods
 
