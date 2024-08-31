@@ -92,7 +92,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 
 [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
 
-✅ (2024-05-18) 
+✅ (2024-05-18 - Audit Track) 
 
 ### Introduction to Computer Science
 
