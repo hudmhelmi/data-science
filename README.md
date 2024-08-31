@@ -102,6 +102,8 @@ _Students who already know basic programming in any language can skip this first
 
 [✅ (2023-09-15 - CS50P)](https://cs50.harvard.edu/certificates/c81cc9ba-ffcb-4e02-bbee-23aaa9641b1e) 
 
+![Introduction to programming - CS50P - Certificate](https://github.com/hudmhelmi/data-science/blob/master/Introduction%20to%20Computer%20Science%20-%20CS50P.png?raw=true)
+
 [Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md)
 
 ✅ (2024-05-26 - OCW Version) 
