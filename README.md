@@ -102,8 +102,11 @@ _Students who already know basic programming in any language can skip this first
 
 <details>
   <summary>CS50P Certificate</summary>
+  
   ![CS50P Certificate](https://github.com/hudmhelmi/data-science/blob/c467fe6e098846789fa6a91c6aac53ae19d2bc92/CS50P.png)
+  
 </details>
+
 
 [Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md)
 ✅ (2024-05-26 - OCW Version) 
