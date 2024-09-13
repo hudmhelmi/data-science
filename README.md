@@ -91,6 +91,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 ### Introduction to Data Science
 
 [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
+
 ✅ (2024-05-18 - Audit) 
 
 ### Introduction to Computer Science
@@ -98,20 +99,23 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 _Students who already know basic programming in any language can skip this first course_
 
 [Introduction to programming](coursepages/intro-programming/README.md)
+
 [✅ (2023-09-15 - CS50P)](https://cs50.harvard.edu/certificates/c81cc9ba-ffcb-4e02-bbee-23aaa9641b1e) 
 
 <details>
-  <summary>CS50P Certificate</summary>
+  <summary>Show Certificate</summary>
   
-  ![CS50P Certificate](https://github.com/hudmhelmi/data-science/blob/c467fe6e098846789fa6a91c6aac53ae19d2bc92/CS50P.png)
+  ![CS50P Certificate](certificates/CS50P.png)
   
 </details>
 
 
 [Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md)
+
 ✅ (2024-05-26 - OCW Version) 
 
 [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+
 ✅ (2024-06-04) 
 
 ### Data Structures and Algorithms
@@ -121,6 +125,7 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 [Java Programming](https://java-programming.mooc.fi/)
 
 [Algorithms I: ArrayLists, LinkedLists, Stacks and Queues](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues)
+
 ✅ (2024-06-12 - Audit) 
 
 [Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps](https://www.edx.org/learn/data-structures/the-georgia-institute-of-technology-data-structures-algorithms-ii-binary-trees-heaps-skiplists-and-hashmaps)
@@ -132,9 +137,11 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 ### Databases
 
 [Database Management Essentials](https://www.coursera.org/learn/database-management)
+
 ☑️ 
 
 [Data Warehouse Concepts, Design, and Data Integration](https://www.coursera.org/learn/dwdesign)
+
 ☑️ 
 
 [Relational Database Support for Data Warehouses](https://www.coursera.org/learn/dwrelational)
