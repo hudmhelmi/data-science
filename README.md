@@ -127,9 +127,18 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 ✅ **Completed on 2024-09-25 (Java Programming I)**
 
 <details>
-  <summary>Show Certificate</summary>
+  <summary>Show Certificate (Java Programming I)</summary>
   
   ![Java Programming I Certificate](certificates/Java%20Programming%20I.png)
+  
+</details>
+
+✅ **Completed on 2024-10-25 (Java Programming II)**
+
+<details>
+  <summary>Show Certificate (Java Programming II)</summary>
+  
+  ![Java Programming II Certificate](certificates/Java%20Programming%20II.png)
   
 </details>
 
